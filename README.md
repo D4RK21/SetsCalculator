@@ -21,3 +21,6 @@ Calculator supports **brackets** and **sequence of operations**!
 * **Intersection** — "*"
 * **Difference** — "\\"
 * **Compliment** — "^"
+
+## Author
+* Mihail Zhmaytsev (**D4RK21**)
