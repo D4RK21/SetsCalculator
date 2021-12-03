@@ -1,5 +1,5 @@
 # 🔢 Sets Calculator
-Sets Calculator written on C# using **RPN** and **Shunting Yard Algorithm.**
+Sets Calculator written on _**C#**_ using **RPN** and **Shunting Yard Algorithm.**
 
 ## 📸 Example
 
