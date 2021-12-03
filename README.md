@@ -1,5 +1,6 @@
 # 🔢 Sets Calculator
 Sets Calculator written on _**C#**_ using _**RPN**_ and _**Shunting Yard Algorithm.**_
+Without using LINQ.
 
 ## 📸 Example
 
