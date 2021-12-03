@@ -6,7 +6,9 @@ Without using LINQ.
 ## ✅ Description
 
 This calculator can use your own set or already declarated.
+
 It is also possible to enter your own **Universal set** or automatically generate it _(Union of all sets)_.
+
 Calculator supports **brackets** and **sequence of operations**!
 
 ## 📸 Example
