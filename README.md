@@ -9,5 +9,5 @@ Sets Calculator written on _**C#**_ using _**RPN**_ and _**Shunting Yard Algorit
 
 * **Union** — "+"
 * **Intersection** — "*"
-* **Difference** — "\"
+* **Difference** — "\\"
 * **Compliment** — "^"
