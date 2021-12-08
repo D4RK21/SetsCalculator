@@ -24,3 +24,4 @@ Calculator supports **brackets** and **sequence of operations**!
 
 ## Author
 * Mikhail Zhmaytsev ([**D4RK21**](https://github.com/D4RK21))
+
