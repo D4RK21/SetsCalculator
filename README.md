@@ -5,7 +5,7 @@ Without using LINQ.
 
 ## ✅ Description
 
-This calculator can use your own set or already declarated.
+This calculator can use your own set or already declarated one.
 
 It is also possible to enter your own **Universal set** or automatically generate it _(Union of all sets)_.
 
