@@ -1,7 +1,6 @@
 # 🔢 Sets Calculator
 
-Sets Calculator written on _**C#**_ using _**RPN**_ and _**Shunting Yard Algorithm.**_
-Without using LINQ.
+Boolean Algebra Calculator written on _**C#**_ using _**RPN**_ and _**Shunting Yard Algorithm.**_
 
 ## ✅ Description
 
@@ -13,14 +12,16 @@ Calculator supports **brackets** and **sequence of operations**!
 
 ## 📸 Example
 
-![1](https://user-images.githubusercontent.com/81447820/144666685-2a11b391-34f1-46c5-a060-9434043b6668.png)
+![imgae](https://user-images.githubusercontent.com/81447820/145732676-8b847f8f-373e-475f-a342-ca5319c5300b.png)
+
 
 ##  ⚙️ Operations
 
-* **Union** — "+"
-* **Intersection** — "*"
-* **Difference** — "\\"
-* **Compliment** — "^"
+* **Disjunction** — "+"
+* **Conjunction** — "*"
+* **Negation** — "!"
+* **Equivalence** — "~"
+* **Implication** — ">" or "<"
 
 ## 👨‍💻 Author
 * Mikhail Zhmaytsev ([**D4RK21**](https://github.com/D4RK21))
